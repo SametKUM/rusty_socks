@@ -1,3 +1,9 @@
+Installation
+
+apt-get install -y cargo
+
+cargo install --git https://github.com/SametKUM/rusty_socks
+
 # rusty_socks
 
 A super basic SOCKS5 proxy.
